@@ -1228,7 +1228,6 @@ h1, h2, h3, h4, h5, h6, figure {
   flex-wrap: wrap;
   -webkit-flex-wrap: wrap;
   -moz-flex-wrap: wrap;
-  margin-left: 2rem;
 }
 #contact .choose .card h3{
   margin-bottom: 2rem;
