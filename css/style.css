@@ -80,6 +80,13 @@ body {
 #page #perfil-img{
   background: url("../images/user1.jpg");
 }
+
+@media screen and (max-width: 768px) {
+  #page #perfil-img{
+    margin-top: 5rem;
+    border: 5px solid red;
+  }
+}
 #page h1 span{
   transition: 0.2s ease;
 }
