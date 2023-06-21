@@ -51,6 +51,10 @@ body {
   border-radius: 25%;
   margin: 0.3rem;
  }
+ .web{
+  text-decoration:none;
+  color: #fff;
+ }
  #page #navbar-header nav ul li a{
   color: #3d0563;
   font-size: 2rem;
@@ -60,13 +64,13 @@ body {
   font-size: 1.85rem;
  }
 
- @media screen and (max-width: 990px) {
+ @media screen and (max-width: 991px) {
   #page #navbar-header #logo{
    display: none;
    }
    #page #navbar-header nav ul li a{
     color: #3d0563;
-    font-size: 1.6rem;
+    font-size: 1.5rem;
    }
 }
 @media screen and (max-width: 769px) {
