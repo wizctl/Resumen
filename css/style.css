@@ -85,7 +85,7 @@ body {
   background: url("../images/user1.jpg");
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 468px) {
   #page #perfil-img{
     margin-top: 5rem;
   }
@@ -511,6 +511,7 @@ h1, h2, h3, h4, h5, h6, figure {
   border-radius: 5px;
 }
 /*start titulo de descargar resumen */
+
 
 @media screen and (max-width: 990px) {
   .info {
