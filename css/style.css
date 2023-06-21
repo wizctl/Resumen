@@ -84,7 +84,6 @@ body {
 @media screen and (max-width: 768px) {
   #page #perfil-img{
     margin-top: 5rem;
-    border: 5px solid red;
   }
 }
 #page h1 span{
